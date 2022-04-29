@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+header{
+   display:flex;
+   justify-content: center;
+}
+nav{
+    height: 200px;
+    width: 500px;
+}
+ul{
+    display:flex;
+    list-style: none;;
+}
